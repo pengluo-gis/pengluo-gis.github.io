@@ -12,17 +12,17 @@ For my full publication list, please see my [Google Scholar](https://scholar.goo
 
 ## Selected publications
 
-1. **Luo, P.**, Song, Y., Zhu, D., Cheng J. and Meng L. A <span style="color:red">Generalized Spatial Heterogeneity Model</span> for Interpolation. 2022 *International Journal of Geographical Information Science*, 37(3), 634-659.
+1. <span style="color:orange">**Luo, P.**</span>, Song, Y., Zhu, D., Cheng J. and Meng L. A Generalized Spatial Heterogeneity Model for Interpolation. 2022 *International Journal of Geographical Information Science*, 37(3), 634-659.
 
-1. **Luo, P.**, Song, Y., Huang, X., Ma, H., Liu, J., Yao, Y. and Meng, L., 2022. Identifying determinants of spatio-temporal disparities in soil moisture of the Northern Hemisphere using a geographically optimal zones-based heterogeneity model. ISPRS Journal of Photogrammetry and Remote Sensing, 185, pp.111-128 
+1. <span style="color:orange">**Luo, P.**</span>, Song, Y., Huang, X., Ma, H., Liu, J., Yao, Y. and Meng, L., 2022. Identifying determinants of spatio-temporal disparities in soil moisture of the Northern Hemisphere using a geographically optimal zones-based heterogeneity model. ISPRS Journal of Photogrammetry and Remote Sensing, 185, pp.111-128 
 
-1.	**Luo, P.**, Song, Y. and Wu, P., 2021. Spatial disparities in trade-offs: economic and environmental impacts of road
+1.	<span style="color:orange">**Luo, P.**</span>, Song, Y. and Wu, P., 2021. Spatial disparities in trade-offs: economic and environmental impacts of road
 infrastructure on continental level. GIScience and Remote Sensing, 58(5), pp.756-775. 
 
-1. 	**Luo, P.**, Zhang, X., Cheng, J. and Sun, Q., 2019. Modeling population density using a new index derived from
+1. 	<span style="color:orange">**Luo, P.**</span>, Zhang, X., Cheng, J. and Sun, Q., 2019. Modeling population density using a new index derived from
 multi-sensor image data. Remote Sensing, 11(22), p.2620.
 
-1. 	**Luo, P.**, Chen, C., Gao, S., Zhang, X., Deng, M., Yang, Z., Meng, L. Understanding of the predictability and uncertainty in population distributions empowered by visual analytics International Journal of Geographical Information Science 
+1. 	<span style="color:orange">**Luo, P.**</span>, Chen, C., Gao, S., Zhang, X., Deng, M., Yang, Z., Meng, L. Understanding of the predictability and uncertainty in population distributions empowered by visual analytics International Journal of Geographical Information Science 
 
 1. 	Yang#, L., **Luo, P.** #(co-first), et al. 2024. A spatio-temporal unmixing with heterogeneity model for the identification of remotely sensed MODIS aerosols: Exemplified by the case of Africa. International Journal of
 Applied Earth Observation and Geoinformation 
