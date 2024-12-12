@@ -5,67 +5,48 @@ permalink: /publications/
 author_profile: true
 ---
 
-For my full publication list, please see my [Google Scholar](https://scholar.google.com.sg/citations?user=B_8XbFgAAAAJ&hl=zh-CN&authuser=1).
+For my full publication list, please see my [Google Scholar](https://scholar.google.com/citations?user=Okwd550AAAAJ&hl=en).
 
 <!-- ## Human Mobility, Travel Behavior, Urban Analytics -->
 
 
-## 2024
-1. **Su, R.**, Newsham, N., Dodge, S. (2024). Spatiotemporal dynamics of ethnoracial diversity and segregation in Los Angeles County: Insights from mobile phone data. *Computers, Environment and Urban Systems*, 114, 102203. doi: [10.1016/j.compenvurbsys.2024.102203](https://www.sciencedirect.com/science/article/pii/S0198971524001327)
+## Selected Publications
 
-1. **Su, R.**, Liu, Y., Dodge, S. (2024). ORTEGA v1.0: An open-source Python package for context-aware interaction analysis using movement data. *Movement Ecology*, 12, 20. doi: [10.1186/s40462-024-00460-2](https://doi.org/10.1186/s40462-024-00460-2) 
+**Luo, P.**, Chen, C., Gao, S., Zhang, X., Deng, M., Yang, Z., Meng, L. (2024). Understanding of the predictability and uncertainty in population distributions empowered by visual analytics. International Journal of Geographical Information Science, pp.1-31.
 
-1. Shi, H., Xiao, J., **Su, R.**, & Goulias, K. G. (2024). Measurement of happiness of daily activity-travel schedules. *Travel Behaviour and Society, 36*, 100807. doi:[10.1016/j.tbs.2024.100807](https://doi.org/10.1016/j.tbs.2024.100807)
+**Luo, P.**, Song, Y., Zhu, D., Cheng J., Meng L. (2022). A Generalized Spatial Heterogeneity Model for Interpolation. International Journal of Geographical Information Science, 37(3), 634-659.
 
+**Luo, P.**, Song, Y., Huang, X., Ma, H., Liu, J., Yao, Y., Meng, L. (2022). Identifying determinants of spatio-temporal disparities in soil moisture of the Northern Hemisphere using a geographically optimal zones-based heterogeneity model. ISPRS Journal of Photogrammetry and Remote Sensing, 185, pp.111-128.
 
-## 2023
-1. Shi, H., **Su, R.**, Goulias, K. (2023). Exploring the impact of COVID-19 pandemic on Americans time use related subjective well-being. *Wellbeing, Space and Society*, 100148. doi: [10.1016/j.wss.2023.100148](https://doi.org/10.1016/j.wss.2023.100148)
+**Luo, P.**, Song, Y., Wu, P. (2021). Spatial disparities in trade-offs: economic and environmental impacts of road infrastructure on continental level. GIScience and Remote Sensing, 58(5), pp.756-775.
 
-1. **Su, R.**, Goulias, K. (2023). Untangling the relationships among residential environment, destination choice, and daily walk accessibility. *Journal of Transport Geography*, 109, 103595. doi: [10.1016/j.jtrangeo.2023.103595](https://doi.org/10.1016/j.jtrangeo.2023.103595)
+**Luo, P.**, Zhang, X., Cheng, J., Sun, Q. (2019). Modeling population density using a new index derived from multi-sensor image data. Remote Sensing, 11(22), p.2620.
 
-## 2022
+Yang, L., **Luo, P.**# (co-first), Zhang, Z., Song, Y., Ren, K., Zhang, C., Awange, J., Atkinson, P.M., Meng, L. (2024). A spatio-temporal unmixing with heterogeneity model for the identification of remotely sensed MODIS aerosols: Exemplified by the case of Africa. International Journal of Applied Earth Observation and Geoinformation, 132, p.104068.
 
-1. **Su, R.**, Dodge, S., Goulias, K. (2022). Understanding the impact of temporal scale on human movement analytics. *Journal of Geographical Systems*, 24(3), 353-388. doi: [10.1007/s10109-021-00370-6](https://doi.org/10.1007/s10109-021-00370-6) *(JGS Editors' choice article)*
+Li, Y., **Luo, P.**# (co-first), Song, Y., Zhang, L., Qu, Y., Hou, Z. (2023). A locally explained stratified heterogeneity model for examining wetland disparity. International Journal of Digital Earth, 16(2), pp.4533-4552.
 
-1. **Su, R.**, Dodge, S., Goulias, K. (2022). A classification framework and computational methods for human interaction analysis using movement data. *Transactions in GIS*, 26(4), 1665-1682. doi: [10.1111/tgis.12960](https://doi.org/10.1111/tgis.12960)
+Yao, Y., Feng, C., Xie, J., Yan, X., Guan, Q., Han, J., Zhang, J., Ren, S., Liang, Y., **Luo, P.*** (2023). A site selection framework for urban power substation at micro-scale using spatial optimization strategy and geospatial big data. Transactions in GIS, 27(6), pp.1662-1679.
 
-1. Shi, H., **Su, R.**, Xiao, J., Goulias, K. (2022). Spatiotemporal analysis of activity-travel fragmentation based on spatial clustering and sequence analysis. *Journal of Transport Geography*, 102, 103382. doi: [10.1016/j.jtrangeo.2022.103382](https://doi.org/10.1016/j.jtrangeo.2022.103382)
+Yao, Y., Dong, A., Liu, Z., Guo, Z., Cheng, J., Guan, Q., **Luo, P.*** (2023). Extracting the pickpocketing information implied in the built environment by treating it as the anomalies. Cities.
 
+Yao, Y., Guo Z., Dou C., Jia M., Hong Y., Guan Q., **Luo, P.*** (2023). Predicting mobile users' next location using the semantically enriched geo-embedding model and multilayer attention mechanism. Computers, Environment and Urban Systems.
 
-## 2021
+Yao, Y., Lei S., Guo, Li Y., Ren S., Liu Z., Guan Q., **Luo, P.*** (2023). Fast urban logistics optimization based on hybrid sparrow search algorithm. International Journal of Geographical Information Science, 1-29.
 
-1. **Su, R.**, Xiao, J., McBride, E.C., Goulias, K. (2021). Understanding senior’s daily mobility patterns in California using human mobility motifs. *Journal of Transport Geography*, 94, 103117. doi: [10.1016/j.jtrangeo.2021.103117](https://doi.org/10.1016/j.jtrangeo.2021.103117)
+Yao, Y., Yan, X., **Luo, P.***, Liang, Y., Ren, S., Hu, Y., Han, J., Guan, Q. (2022). Classifying land-use patterns by integrating time-series electricity data and high-spatial resolution remote sensing imagery. International Journal of Applied Earth Observation and Geoinformation, 106, p.102664.
 
-1. **Su, R.**, McBride, E.C., Goulias, K. (2021). Unveiling daily activity pattern differences between telecommuters and commuters using human mobility motifs and sequence analysis. *Transportation Research Part A: Policy and Practice*, 147, 106-132. doi: [10.1016/j.tra.2021.03.002](https://doi.org/10.1016/j.tra.2021.03.002)
+Cheng, S., Zhang, W., **Luo, P.**, Wang, L., Lu, F. (2024). An explainable spatial interpolation method considering spatial stratified heterogeneity. International Journal of Geographical Information Science.
 
-1. **Su, R.**, Dodge, S., Goulias, K. (2021). A time-geographic approach to quantify the duration of interaction in movement data. *In Proceedings of the 1st ACM SIGSPATIAL International Workshop on Animal Movement Ecology and Human Mobility* (pp. 18-26). *(Best Paper Award)*
+Yan, X., Jiang, Z., **Luo, P.**, Wu, H., Dong, A., Mao, F., Wang, Z., Liu, H., Yao, Y. (2024). A multimodal data fusion model for accurate and interpretable urban land use mapping with uncertainty analysis. International Journal of Applied Earth Observation and Geoinformation, 129, p.103805.
 
+Chen, C., Feng, Y., Wei, M., Liu, Z., **Luo, P.**, Wang, S., Meng, L. (2024). A hyper-knowledge graph system for research on AI ethics cases. Heliyon, 10(7).
 
-1. Dodge, S., **Su, R.**, Johnson, J., Simcharoen, A., Goulias, K., Smith, J., Ahearn, S. (2021). ORTEGA: an object-oriented time-geographic analytical approach to trace space-time contact patterns in movement data. *Computers, Environment and Urban Systems*, 88, 101630. doi: [10.1016/j. compenvurbsys.2021.101630](https://doi.org/10.1016/j. compenvurbsys.2021.101630)
+Dong, A., Zhang, Y., Guo, Z., **Luo, P.**, Yao, Y., He, J., Zhu, Q., Jiang, Y., Xiong, K., Guan, Q. (2024). Predicting the locations of missing persons in China by using NGO data and deep learning techniques. International Journal of Digital Earth, 17(1).
 
-1. **Su, R.**, Goulias, K. (2021). Evolution of the Chinese Spring Festival Travel network during the COVID-19 early outbreak. *Transportation letters*, 13(5-6), 492-500. doi: [10.1080/19427867.2021.1896065](https://doi.org/10.1080/19427867.2021.1896065)
+Wei, M., Feng, Y., Chen, C., **Luo, P.**, Zuo, C., Meng, L. (2024). Unveiling public perception of AI ethics: an exploration on Wikipedia data. EPJ Data Science, 13(1), p.26.
 
-## 2020
-
-1. **Su, R.**, McBride, E.C., Goulias, K. (2020). Pattern recognition of daily activity patterns using human mobility motifs and sequence analysis. *Transportation Research Part C: Emerging Technologies*, 120, 102796. doi: [10.1016/j.trc.2020.102796](https://doi.org/10.1016/j.trc.2020.102796)
-
-1. Xiao, J., **Su, R.**, McBride, E.C., Goulias, K. (2020). Exploring the correlations between spatiotemporal daily activity-travel patterns and stated interest and perception of risk with self-driving cars. *AGILE: GIScience Series*, 1, 1-15. doi: [10.5194/agile-giss-1-22-2020](https://doi.org/10.5194/agile-giss-1-22-2020)
-
-1. Goulias, K., McBride, E.C., **Su, R.** (2020). Life cycle stages, daily contacts, and activity-travel time allocation for the benefit of self and others. In: *Scheiner, J. and Rau, H. (eds) Mobility Across the Life Course*, Publisher: Edward Elgar. (book chapter)
-
-1. Goulias, K., **Su, R.**, McBride, E.C. (2020). Revisiting the Impact of Teleworking on Activity-Travel Behavior Using Recent Data and Sequence-Based Analytical Techniques. (Research report to Pacific Southwest Region University Transportation Center).
-
-## 2019
-
-1. **Su, R.**, Fang, Z. (2019). A review of studies in taxi mobility and e-hailing taxi service. *Journal of Smart Cities*, 4(1), 1-6.
-
-## 2018
-
-1. Fang, Z., **Su, R.**, Huang, L. (2018). Understanding the effect of an E-hailing app subsidy war on taxicab operation zones. *Journal of Advanced Transportation*, 2018. doi: [10.1155/2018/7687852](https://doi.org/10.1155/2018/7687852)
-
-1. **Su, R.**, Fang, Z., Luo, N., Zhu, J. (2018). Understanding the dynamics of the pick-up and drop-off locations of taxicabs in the context of a subsidy war among e-hailing apps. *Sustainability*, 10(4), 1256. doi: [10.3390/su10041256](https://doi.org/10.3390/su10041256)
-
-1. **Su, R.**, Fang, Z., Xu, H., Huang, L. (2018). Uncovering Spatial Inequality in Taxi Services in the Context of a Subsidy War among E-Hailing Apps. *ISPRS International Journal of Geo-Information*, 7(6), 230. doi: [10.3390/ijgi7060230](https://doi.org/10.3390/ijgi7060230)
+Zhang, Z., Song, Y., **Luo, P.**. (2023). GeoComplexity explains spatial errors. International Journal of Geographical Information Science.
 
 
 
