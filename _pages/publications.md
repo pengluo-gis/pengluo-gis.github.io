@@ -24,24 +24,23 @@ multi-sensor image data. Remote Sensing, 11(22), p.2620.
 
 1. 	<span style="color:orange">**Luo, P.**</span>, Chen, C., Gao, S., Zhang, X., Deng, M., Yang, Z., Meng, L. Understanding of the predictability and uncertainty in population distributions empowered by visual analytics International Journal of Geographical Information Science 
 
-1. 	Yang#, L., **Luo, P.** #(co-first), et al. 2024. A spatio-temporal unmixing with heterogeneity model for the identification of remotely sensed MODIS aerosols: Exemplified by the case of Africa. International Journal of
+1. 	Yang#, L., <span style="color:orange">**Luo, P.**</span>(co-first), et al. 2024. A spatio-temporal unmixing with heterogeneity model for the identification of remotely sensed MODIS aerosols: Exemplified by the case of Africa. International Journal of
 Applied Earth Observation and Geoinformation 
 
-1. 	Li, Y.#, **Luo, P.**#(co-first), Song, Y., Zhang, L., Qu, Y and Hou, Z., 2023. A locally explained heterogeneity model for examining wetland disparity. International Journal of Digital Earth, 13(2), p.4533-4552.
+1. 	Li, Y.#, <span style="color:orange">**Luo, P.**</span>(co-first), Song, Y., Zhang, L., Qu, Y and Hou, Z., 2023. A locally explained heterogeneity model for examining wetland disparity. International Journal of Digital Earth, 13(2), p.4533-4552.
 
-1. 	Yao, Y., … Guan, Q. , **Luo, P.***, 2024. Automated External Defibrillator (AED) location selection considering myocardial infarction risk and medical resources. Transactions in GIS
+1. 	Yao, Y., … Guan, Q. , <span style="color:orange">**Luo, P.** *</span>, 2024. Automated External Defibrillator (AED) location selection considering myocardial infarction risk and medical resources. Transactions in GIS
 
-1. 	Yao Y., Lei S., Guo., Li Y., Ren S., Liu Z., Guan Q., **Luo, P.** *. Fast urban logistics optimization based on hybrid
+1. 	Yao Y., Lei S., Guo., Li Y., Ren S., Liu Z., Guan Q., <span style="color:orange">**Luo, P.** *</span>. Fast urban logistics optimization based on hybrid
 sparrow search algorithm. International Journal of Geographical Information Science.1-29 
 
-1. 	Yao, Y., Yan, X., **Luo, P.** *,Liang, Y., Ren, S., Hu, Y., Han, J. and Guan, Q., 2022. Classifying land-use patterns by integrating time-series electricity data and high-spatial resolution remote sensing imagery. International Journal of
-Applied Earth Observation and Geoinformation, 106, p.102664.
+1. 	Yao, Y., Yan, X., <span style="color:orange">**Luo, P.** *</span>,Liang, Y., Ren, S., Hu, Y., Han, J. and Guan, Q., 2022. Classifying land-use patterns by integrating time-series electricity data and high-spatial resolution remote sensing imagery. International Journal of Applied Earth Observation and Geoinformation, 106, p.102664.
 
-1. 	Yao, Y., Guo, Z., Dou, C., Jia, M., Hong, Y., Guan, Q.* and **Luo, P.** *, 2023. Predicting mobile users' next location using the semantically enriched geo-embedding model and the multilayer attention mechanism. Computers, Environment and Urban Systems, 104, p.102009. 
+1. 	Yao, Y., Guo, Z., Dou, C., Jia, M., Hong, Y., Guan, Q.* and <span style="color:orange">**Luo, P.** *</span>, 2023. Predicting mobile users' next location using the semantically enriched geo-embedding model and the multilayer attention mechanism. Computers, Environment and Urban Systems, 104, p.102009. 
 
-1. 	Yao, Y., Feng, C., Xie, J., Yan, X., Guan, Q., Han, J., Zhang, J., Ren, S., Liang, Y., Luo, P*. A site selection framework for urban power substation at micro-scale using spatial optimization strategy and geospatial big data. Transactions in GIS. 
+1. 	Yao, Y., Feng, C., Xie, J., Yan, X., Guan, Q., Han, J., Zhang, J., Ren, S., Liang, Y., <span style="color:orange">**Luo, P.** *</span> A site selection framework for urban power substation at micro-scale using spatial optimization strategy and geospatial big data. Transactions in GIS. 
 
-1. 	Yao, Y., Dong, A., Liu, Z., Jiang, Y., Guo, Z., Cheng, J., Guan, Q. and **Luo, P.** *., 2023. Extracting the pickpocketing information implied in the built environment by treating it as the anomalies. Cities, 143, p.104575. 
+1. 	Yao, Y., Dong, A., Liu, Z., Jiang, Y., Guo, Z., Cheng, J., Guan, Q. and <span style="color:orange">**Luo, P.** *</span>, 2023. Extracting the pickpocketing information implied in the built environment by treating it as the anomalies. Cities, 143, p.104575. 
 
 1. 	Cheng, S., Zhang, W., **Luo, P.**, Wang, L., Lu, F. An explainable spatial interpolation method considering spatial stratified heterogeneity International Journal of Geographical Information Science 
 
@@ -64,7 +63,7 @@ Applied Earth Observation and Geoinformation, 106, p.102664.
 1. 	Cheng, J., Zhang, X., **Luo, P.**, Huang, J., Huang J. An unsupervised approach for semantic place annotation of
 trajectories based on the prior probability. Information Sciences, 607, 1311-1327
 
-1. 	Yao, Y., Wang, Z., **Luo, P.** *, Yin, H., Liu, Z., Zhang, J., Guo, N. and Guan, Q., 2022. RunnerDNA: Interpretable indicators and model to characterize human activity pattern and individual difference. arXiv preprint arXiv:2201.07370.
+1. 	Yao, Y., Wang, Z., <span style="color:orange">**Luo, P.** *</span>, Yin, H., Liu, Z., Zhang, J., Guo, N. and Guan, Q., 2022. RunnerDNA: Interpretable indicators and model to characterize human activity pattern and individual difference. arXiv preprint arXiv:2201.07370.
 
 1. 	Yang, W., Zhang, X. and **Luo, P.**, 2021. Transferability of convolutional neural network models for identifying damaged buildings due to earthquake. Remote Sensing, 13(3), p.504.
 
