@@ -35,7 +35,7 @@ Applied Earth Observation and Geoinformation
 1. 	Yao Y., Lei S., Guo., Li Y., Ren S., Liu Z., Guan Q., **Luo, P.** *. Fast urban logistics optimization based on hybrid
 sparrow search algorithm. International Journal of Geographical Information Science.1-29 
 
-1. 	Yao, Y., Yan, X., **Luo, P.** *, Liang, Y.*, Ren, S., Hu, Y., Han, J. and Guan, Q., 2022. Classifying land-use patterns by integrating time-series electricity data and high-spatial resolution remote sensing imagery. International Journal of
+1. 	Yao, Y., Yan, X., **Luo, P.** *,Liang, Y., Ren, S., Hu, Y., Han, J. and Guan, Q., 2022. Classifying land-use patterns by integrating time-series electricity data and high-spatial resolution remote sensing imagery. International Journal of
 Applied Earth Observation and Geoinformation, 106, p.102664.
 
 1. 	Yao, Y., Guo, Z., Dou, C., Jia, M., Hong, Y., Guan, Q.* and **Luo, P.** *, 2023. Predicting mobile users' next location using the semantically enriched geo-embedding model and the multilayer attention mechanism. Computers, Environment and Urban Systems, 104, p.102009. 
