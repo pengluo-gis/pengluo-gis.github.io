@@ -16,7 +16,7 @@ For my full publication list, please see my [Google Scholar](https://scholar.goo
 
 2. **Luo, P.**, Song, Y., Zhu, D., Cheng J., Meng L. (2022). A Generalized Spatial Heterogeneity Model for Interpolation. International Journal of Geographical Information Science, 37(3), 634-659.
 
-**Luo, P.**, Song, Y., Huang, X., Ma, H., Liu, J., Yao, Y., Meng, L. (2022). Identifying determinants of spatio-temporal disparities in soil moisture of the Northern Hemisphere using a geographically optimal zones-based heterogeneity model. ISPRS Journal of Photogrammetry and Remote Sensing, 185, pp.111-128.
+1. **Luo, P.**, Song, Y., Huang, X., Ma, H., Liu, J., Yao, Y., Meng, L. (2022). Identifying determinants of spatio-temporal disparities in soil moisture of the Northern Hemisphere using a geographically optimal zones-based heterogeneity model. ISPRS Journal of Photogrammetry and Remote Sensing, 185, pp.111-128.
 
 **Luo, P.**, Song, Y., Wu, P. (2021). Spatial disparities in trade-offs: economic and environmental impacts of road infrastructure on continental level. GIScience and Remote Sensing, 58(5), pp.756-775.
 
