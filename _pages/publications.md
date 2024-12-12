@@ -32,10 +32,10 @@ Applied Earth Observation and Geoinformation
 
 1. 	Yao, Y., … Guan, Q. , **Luo, P.***, 2024. Automated External Defibrillator (AED) location selection considering myocardial infarction risk and medical resources. Transactions in GIS
 
-1. 	Yao Y., Lei S., Guo., Li Y., Ren S., Liu Z., Guan Q., **Luo, P.***. Fast urban logistics optimization based on hybrid
+1. 	Yao Y., Lei S., Guo., Li Y., Ren S., Liu Z., Guan Q., **Luo, P.** *. Fast urban logistics optimization based on hybrid
 sparrow search algorithm. International Journal of Geographical Information Science.1-29 
 
-1. 	Yao, Y., Yan, X., **Luo, P.***, Liang, Y.*, Ren, S., Hu, Y., Han, J. and Guan, Q., 2022. Classifying land-use patterns by
+1. 	Yao, Y., Yan, X., **Luo, P.** *, Liang, Y.*, Ren, S., Hu, Y., Han, J. and Guan, Q., 2022. Classifying land-use patterns by
 integrating time-series electricity data and high-spatial resolution remote sensing imagery. International Journal of
 Applied Earth Observation and Geoinformation, 106, p.102664.
 
